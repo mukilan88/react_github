@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github.io/react_github/static/js/main.b143e0fb.js",
-    "index.html": "/github.io/react_github/index.html",
-    "main.b143e0fb.js.map": "/github.io/react_github/static/js/main.b143e0fb.js.map"
+    "main.js": "/react_github/static/js/main.b143e0fb.js",
+    "index.html": "/react_github/index.html",
+    "main.b143e0fb.js.map": "/react_github/static/js/main.b143e0fb.js.map"
   },
   "entrypoints": [
     "static/js/main.b143e0fb.js"
